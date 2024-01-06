@@ -24,6 +24,10 @@ Bu proje, JavaScript ve PokeAPI kullanılarak geliştirilen Pokémon kart uygula
 
 4. **PokeAPI** - Pokémon verilerini çekmek için kullanılan açık kaynaklı API.
 
+## Site Linki
+
+https://pokedex-guide-sa.vercel.app/
+
 ## Ekran Görüntüsü
 
 ![ezgif com-video-to-gif-converter](https://github.com/serhatakhan/PokedexGuide/assets/147662915/6c6bf01c-b3f1-4d34-8704-6a5dea131686)
